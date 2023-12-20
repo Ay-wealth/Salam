@@ -1,0 +1,46 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+
+
+.container{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    display: grid;
+    padding:20px;
+    width: 300px;
+    height: 520px;
+
+}
+.qr-part img{
+    border-radius: 20px;
+    width:280px;
+    height:280px;
+    align-items: center;
+    padding-top: 0%;
+    padding: 10px;
+    margin:auto;
+}
+
+.bold-notes h4{
+ text-align: center;
+ font-weight: bolder;
+ font-size: larger;
+ color:black
+
+}
+
+.thin-notes p{
+    text-align: center;
+    font-weight: light;
+    font-size: medium;
+    color:rgb(202, 186, 186)
+}
+
+.attribution a{
+    text-align: center;
+    font-weight: bold;
+
+}
